@@ -2,9 +2,9 @@
 
 ## Background
 
-A long holiday vacation in Honolulu, Hawaii is coming up! To help with trip planning, you need some climate analysis on the area is needed.
+A long holiday vacation in Honolulu, Hawaii is coming up! To help with trip planning, some climate analysis on the area is needed.
 
-The Jupyter Notebook contains Climate Analysis and Exploration for one year. 
+The Jupyter Notebook contains Climate Analysis and Exploration for one year. Plot results shown below.
 
 The Flask API application includes:
 
@@ -19,9 +19,12 @@ The Flask API application includes:
 
 ## Database Information
 
+* SQLite Database Schema
+
 ![Schema](/Images/DB-schema.png)
 
 ## Plots
+
 * Climate Analysis (12 months)
 
 ![ciimate-analysis](/Images/Precipitation.png)
