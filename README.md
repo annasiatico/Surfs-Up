@@ -18,18 +18,18 @@ The Flask API application includes:
 * Trip dates are set on 2017-03-05 to 2017-03-15
 
 ## Database Information
-![Schema](DB-schema.png)
+![Schema](/Images/DB-schema.png)
 
 ## Plots
 * Climate Analysis (12 months)
-![ciimate-analysis](Precipitation.png)
+![ciimate-analysis](/Images/Precipitation.png)
 
 * Station Analysis with highest number of temperature observations
-![station-analysis](Temperature_Observation.png)
+![station-analysis](/Images/Temperature_Observation.png)
 
 * Average temperature from previous year for trip dates
-![avg-temp](TripAvgTemp.png)
+![avg-temp](/Images/TripAvgTemp.png)
 
 * Daily normals from previous year for trip dates
-![daily-normals](DailyNormals.png)
+![daily-normals](/Images/DailyNormals.png)
 
