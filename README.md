@@ -30,7 +30,9 @@ The Flask API application includes:
 
 ![station-analysis](/Images/Temperature_Observation.png)
 
+* Average temperature from previous year for trip dates
 
+![avg-temp](/Images/TripAvgTemp.png)
 
 * Daily normals from previous year for trip dates
 
